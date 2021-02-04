@@ -1,0 +1,4 @@
+C:\Users\Pip Innovations\Documents\Visual Studio Projects\ValuePlusMin\ValuePlusMin\obj\Debug\ValuePlusMin.csprojAssemblyReference.cache
+C:\Users\Pip Innovations\Documents\Visual Studio Projects\ValuePlusMin\ValuePlusMin\obj\Debug\UserControl1.g.cs
+C:\Users\Pip Innovations\Documents\Visual Studio Projects\ValuePlusMin\ValuePlusMin\obj\Debug\ValuePlusMin_MarkupCompile.cache
+C:\Users\Pip Innovations\Documents\Visual Studio Projects\ValuePlusMin\ValuePlusMin\obj\Debug\ValuePlusMin_MarkupCompile.lref
